@@ -41,7 +41,7 @@ object_detection_yolov8/
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/object-detection-yolov8.git
+https://github.com/6303-naidu/object_detection.git
 cd object_detection_yolov8
 ```
 
