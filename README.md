@@ -100,7 +100,7 @@ To deploy on **Streamlit Cloud**:
 
 | Image | Detection |
 |-------|-----------|
-| ![input](test_images/sample.jpg) | ![output](test_images/result.jpg) |
+| ![input](Screenshot (24).png) | ![output](test_images/result.) |
 
 ---
 
