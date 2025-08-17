@@ -66,11 +66,6 @@ pip install -r requirements.txt
 python object_detection.py --source path/to/image.jpg
 ```
 
-### Run detection on a video
-
-```bash
-python object_detection.py --source path/to/video.mp4
-```
 
 ### Live webcam detection
 
