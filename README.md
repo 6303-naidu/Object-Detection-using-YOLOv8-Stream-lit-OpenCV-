@@ -1,20 +1,20 @@
-# 🧠 Object Detection using YOLOv8n
+## Object Detection using YOLOv8n
 
 This project implements real-time object detection using the lightweight [YOLOv8n](https://docs.ultralytics.com/models/yolov8) (nano) model by Ultralytics. It is designed to detect and classify multiple objects in images, videos, or webcam streams efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Lightweight YOLOv8n model for fast inference
-- 📸 Supports image, video, and live webcam input
-- 📦 Easily deployable using Streamlit
-- 📊 Customizable confidence threshold
-- 🧪 Easily extendable for custom datasets
+-  Lightweight YOLOv8n model for fast inference
+- Supports image, video, and live webcam input
+-  Easily deployable using Streamlit
+-  Customizable confidence threshold
+-  Easily extendable for custom datasets
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **YOLOv8n** – Ultralytics
 - **OpenCV** – Image processing
@@ -24,7 +24,7 @@ This project implements real-time object detection using the lightweight [YOLOv8
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 object_detection_yolov8/
@@ -37,7 +37,7 @@ object_detection_yolov8/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository**  
 ```bash
@@ -58,21 +58,21 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Usage
+## Usage
 
-### ▶️ Run detection on an image
+###  Run detection on an image
 
 ```bash
 python object_detection.py --source path/to/image.jpg
 ```
 
-### 📹 Run detection on a video
+### Run detection on a video
 
 ```bash
 python object_detection.py --source path/to/video.mp4
 ```
 
-### 📷 Live webcam detection
+### Live webcam detection
 
 ```bash
 python object_detection.py --source 0
@@ -80,7 +80,7 @@ python object_detection.py --source 0
 
 ---
 
-## 🌐 Deploying with Streamlit
+##  Deploying with Streamlit
 
 To run the app locally:
 
@@ -96,7 +96,7 @@ To deploy on **Streamlit Cloud**:
 
 ---
 
-## 📌 Sample Results
+##  Sample Results
 
 | Image | Detection |
 |-------|-----------|
@@ -104,7 +104,7 @@ To deploy on **Streamlit Cloud**:
 
 ---
 
-## 🧠 Model Info
+##  Model Info
 
 - **Model:** YOLOv8n (nano)
 - **Parameters:** ~3.2M
@@ -113,7 +113,7 @@ To deploy on **Streamlit Cloud**:
 
 ---
 
-## 📝 Acknowledgements
+##  Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [Streamlit](https://streamlit.io/)
@@ -121,6 +121,6 @@ To deploy on **Streamlit Cloud**:
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
