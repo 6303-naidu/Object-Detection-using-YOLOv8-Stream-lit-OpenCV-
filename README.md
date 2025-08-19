@@ -31,7 +31,7 @@ object_detection_yolov8/
 ├── object_detection.py       # Main YOLO inference logic
 ├── requirements.txt          # Python dependencies
 ├── streamlit_app.py          # Streamlit interface
-├── test_images/              # Sample images/videos for testing
+├── test_images              # Sample images/videos for testing
 └── README.md                 # Project overview
 ```
 
@@ -81,15 +81,7 @@ To run the app locally:
 
 ```bash
 streamlit run streamlit_app.py
-```
 
-To deploy on **Streamlit Cloud**:
-
-1. Push the project to a GitHub repository.
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) and link your GitHub repo.
-3. Select `streamlit_app.py` as the entry point.
-
----
 
 ##  Sample Results
 
