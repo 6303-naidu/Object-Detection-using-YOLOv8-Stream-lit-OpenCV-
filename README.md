@@ -73,8 +73,12 @@ python object_detection.py --source path/to/image.jpg
 python object_detection.py --source 0
 ```
 | ![input](live_detection.png) | 
----
+ ##  Sample Results
 
+| Image | Detection |
+|-------|-----------|
+| ![input](input.png) | ![output](output.png) |
+ 
 ##  Deploying with Streamlit
 
 To run the app locally:
@@ -88,7 +92,7 @@ streamlit run streamlit_app.py
 | Image | Detection |
 |-------|-----------|
 | ![input](input.png) | ![output](output.png) |
-
+| ![input](live_detection.png) | 
 ---
 
 ##  Model Info
