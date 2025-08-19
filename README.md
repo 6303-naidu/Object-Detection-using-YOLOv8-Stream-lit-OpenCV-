@@ -64,8 +64,13 @@ pip install -r requirements.txt
 
 ```bash
 python object_detection.py --source path/to/image.jpg
+
+
 ```
 
+## How to Run
+# for image Detection
+streamlit run app.py
 
 ### Live webcam detection
 
