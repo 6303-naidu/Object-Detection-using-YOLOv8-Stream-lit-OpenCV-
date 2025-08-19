@@ -83,24 +83,8 @@ python object_detection.py --source 0
 | Image | Detection |
 |-------|-----------|
 | ![input](input.png) | ![output](output.png) |
- 
-##  Deploying with Streamlit
 
-To run the app locally:
-
-```bash
-streamlit run streamlit_app.py
-
-
-##  Sample Results
-
-| Image | Detection |
-|-------|-----------|
-| ![input](input.png) | ![output](output.png) |
-| ![input](live_detection.png) | 
----
-
-##  Model Info
+ ## ## Model Info
 
 - **Model:** YOLOv8n (nano)
 - **Parameters:** ~3.2M
@@ -120,3 +104,5 @@ streamlit run streamlit_app.py
 ##  License
 
 This project is licensed under the MIT License.
+
+
