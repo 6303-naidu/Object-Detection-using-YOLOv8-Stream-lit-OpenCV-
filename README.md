@@ -72,7 +72,7 @@ python object_detection.py --source path/to/image.jpg
 ```bash
 python object_detection.py --source 0
 ```
-
+| ![input](live_detection.png) | 
 ---
 
 ##  Deploying with Streamlit
@@ -87,7 +87,7 @@ streamlit run streamlit_app.py
 
 | Image | Detection |
 |-------|-----------|
-| ![input](Screenshot (24).png) | ![output](Screenshot (68).png) |
+| ![input](input.png) | ![output](output.png) |
 
 ---
 
